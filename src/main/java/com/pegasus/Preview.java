@@ -1,4 +1,4 @@
-package com.pegasus.toolkit;
+package com.pegasus;
 import org.pentaho.di.core.exception.KettleException;
 import org.pentaho.di.core.logging.KettleLogStore;
 import org.pentaho.di.core.row.RowMetaInterface;

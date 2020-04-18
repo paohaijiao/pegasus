@@ -1,4 +1,4 @@
-package com.pegasus.toolkit;
+package com.pegasus;
 
 import java.io.File;
 import java.io.FileInputStream;

@@ -5,7 +5,7 @@ import java.io.FileOutputStream;
 import java.io.IOException;
 import java.util.Map;
 
-import com.pegasus.toolkit.Constant;
+import com.pegasus.Constant;
 import org.pentaho.di.core.JndiUtil;
 import org.pentaho.di.core.KettleVariablesList;
 import org.pentaho.di.core.auth.AuthenticationConsumerPluginType;
