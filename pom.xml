@@ -13,7 +13,10 @@
             <id>jitpack.io</id>
             <url>https://jitpack.io</url>
         </repository>
-
+        <repository>
+            <id>pentaho</id>
+            <url>http://nexus.pentaho.org/content/groups/omni/</url>
+        </repository>
 
     </repositories>
     <build>
