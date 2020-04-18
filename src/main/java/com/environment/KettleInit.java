@@ -23,7 +23,9 @@ import org.pentaho.di.i18n.BaseMessages;
 import org.pentaho.di.trans.step.RowDistributionPluginType;
 
 
-
+/**
+ * 初始化环境
+ */
 public class KettleInit {
 
 	private static Class<?> PKG = Constant.class;
